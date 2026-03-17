@@ -1,0 +1,7270 @@
+[
+  {
+    "team_id": 2163,
+    "team_name": "Team Liquid",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 77490514,
+        "name": "Boxi",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 152962063,
+        "name": "m1CKe",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 201358612,
+        "name": "Nisha",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 16497807,
+        "name": "tOfu",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 97590558,
+        "name": "Ace ♠",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 60943014,
+        "name": "Jabbz",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9823272,
+    "team_name": "Team Yandex",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 312436974,
+        "name": "CHIRA_JUNIOR",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 171262902,
+        "name": "医者watson`",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 195108598,
+        "name": "Noticed",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 93817671,
+        "name": "Maladych",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7412785,
+    "team_name": "CyberBonch-1",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8291895,
+    "team_name": "Tundra Esports",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 86698277,
+        "name": "33",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 136829091,
+        "name": "Whitemon",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 93618577,
+        "name": "bzm",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 331855530,
+        "name": "Pure",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 94054712,
+        "name": "Topson",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 132851371,
+        "name": "RAMZES666",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9467224,
+    "team_name": "Aurora Gaming",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 256156323,
+        "name": "Mira",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 124801257,
+        "name": "Nightfall",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 320219866,
+        "name": "kaori",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 126842529,
+        "name": "Ws`",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 154715080,
+        "name": "Abed",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 389022189,
+        "name": "Palos",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8605863,
+    "team_name": "Cloud9",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 96803083,
+        "name": "Stormstormer",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7119388,
+    "team_name": "Team Spirit",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 302214028,
+        "name": "Collapse",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 321580662,
+        "name": "Yatoro",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 106305042,
+        "name": "Larl",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 847565596,
+        "name": "rue",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 108958769,
+        "name": "panto",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 203351055,
+        "name": "Malik",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8255888,
+    "team_name": "BetBoom Team",
+    "current_players_count": 5,
+    "current_players": [
+      {
+        "account_id": 317880638,
+        "name": "Save-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 480412663,
+        "name": "gpk~",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 165564598,
+        "name": "MieRo",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 196878136,
+        "name": "Kataomi`",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 172099728,
+        "name": "Kiritych~",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9255706,
+    "team_name": "Aurora.1xBet",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9572001,
+    "team_name": "PARIVISION",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5228654,
+    "team_name": "VGJ Storm",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5026801,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9634742,
+    "team_name": "Chimera Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8169775,
+    "team_name": "Geek Fam",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 343084576,
+        "name": "NARMAN",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 109757023,
+        "name": "Ulnit",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8121295,
+    "team_name": "mudgolems",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8260983,
+    "team_name": "TSM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3214108,
+    "team_name": "Team NP",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261500,
+    "team_name": "Xtreme Gaming",
+    "current_players_count": 9,
+    "current_players": [
+      {
+        "account_id": 129958758,
+        "name": "Xxs",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 898754153,
+        "name": "Ame",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 138543123,
+        "name": "Pyw",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 94296097,
+        "name": "xNova",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 185908355,
+        "name": "楼",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 101695162,
+        "name": "fy",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 173978074,
+        "name": "NothingToSay",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 145957968,
+        "name": "niu",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 158847773,
+        "name": "Tianming",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9131584,
+    "team_name": "BB Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9303484,
+    "team_name": "HEROIC",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 81306398,
+        "name": "KingJungles",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 138880576,
+        "name": "Davai Lama",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 177203952,
+        "name": "Yuma",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 292921272,
+        "name": "Wisper",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 164685175,
+        "name": "k1 hector tqmM",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1171243748,
+        "name": "ɹǝʞɹɐd⚔️",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2519319,
+    "team_name": "(monkey) Business",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7819701,
+    "team_name": "VP.Prodigy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9142866,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8571960,
+    "team_name": "Team Orca",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5,
+    "team_name": "Invictus Gaming",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 148215639,
+        "name": "Monet",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 36,
+    "team_name": "Natus Vincere",
+    "current_players_count": 8,
+    "current_players": [
+      {
+        "account_id": 835864135,
+        "name": "pma",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 392169957,
+        "name": "sanctity-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 130991304,
+        "name": "Riddys",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 185590374,
+        "name": "Niku",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 957204049,
+        "name": "gotthejuice",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 116249155,
+        "name": "nefrit",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 194979527,
+        "name": "shigetsu",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 40805086,
+        "name": "mellojul",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9247354,
+    "team_name": "Team Falcons",
+    "current_players_count": 5,
+    "current_players": [
+      {
+        "account_id": 25907144,
+        "name": "Cr1t-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 100058342,
+        "name": "skiter",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 10366616,
+        "name": "Sneyking",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 183719386,
+        "name": "AMMAR_THE_F",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 898455820,
+        "name": "Malr1ne",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8894818,
+    "team_name": "PSG.Quest",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9017006,
+    "team_name": "NAVI Junior",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2101260,
+    "team_name": "BigGooooood",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2586976,
+    "team_name": "OG",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 88271237,
+        "name": "Ceb",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 346412363,
+        "name": "Ari",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 155494381,
+        "name": "TIMS",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 146711951,
+        "name": "Nikko",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9766941,
+    "team_name": "FLIPSTER TALON",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8721219,
+    "team_name": "Darkside",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6953913,
+    "team_name": "FlyToMoon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8244493,
+    "team_name": "Team SMG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8597391,
+    "team_name": "Luna Galaxy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1848158,
+    "team_name": "LV-Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 999689,
+    "team_name": "Titan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9373270,
+    "team_name": "Night Pulse",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8761147,
+    "team_name": "tam_sme",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8255756,
+    "team_name": "Evil Geniuses",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 153836240,
+        "name": "C.smile <",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6214538,
+    "team_name": "Newbee",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8599101,
+    "team_name": "Gaimin Gladiators",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 91730177,
+        "name": "Seleri",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5229127,
+    "team_name": "Winstrike",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4251435,
+    "team_name": "w33ha earthspirit",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9381131,
+    "team_name": "Uzumaki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 543897,
+    "team_name": "Mineski",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9338413,
+    "team_name": "MOUZ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9080405,
+    "team_name": "Team Zero",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 179313961,
+        "name": "7eeeeeee",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 193884241,
+        "name": "ponlo",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 102644565,
+        "name": "ICEICE",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 140613225,
+        "name": "Cty",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6382242,
+    "team_name": "Thunder Predator",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 726228,
+    "team_name": "Vici Gaming",
+    "current_players_count": 3,
+    "current_players": [
+      {
+        "account_id": 137129583,
+        "name": "Xm",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 150961567,
+        "name": "planet",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 111114687,
+        "name": "y`",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1910985,
+    "team_name": "TeamMalaysia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8254400,
+    "team_name": "beastcoast",
+    "current_players_count": 5,
+    "current_players": [
+      {
+        "account_id": 349310876,
+        "name": "MoOz",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 425588742,
+        "name": "payk",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 118948666,
+        "name": "Lumpy",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1031547092,
+        "name": "Elmisho",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 138177198,
+        "name": "Vitaly 誇り",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 55,
+    "team_name": "_PowerRangers",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 294135421,
+        "name": "Nicky`Cool",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9885130,
+    "team_name": "Perú Rejects",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9187066,
+    "team_name": "Team Tickles",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3922738,
+    "team_name": " Thunder Awaken ///",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8204512,
+    "team_name": "Neptune Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 15,
+    "team_name": "LGD Gaming",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 315272623,
+        "name": "EchozZ",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9640842,
+    "team_name": "Team Tidebound",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9798195,
+    "team_name": "Cyber Goose",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261818,
+    "team_name": "Hellbear Smashers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9018710,
+    "team_name": "Holy Grail",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 192819341,
+        "name": "sj",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 227657377,
+        "name": "Summer",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1820360,
+    "team_name": "TEAMERINO TINKERINO",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9381678,
+    "team_name": "Apex Genesis",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7553952,
+    "team_name": "Chicken Fighters !",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 293390,
+    "team_name": "Radical Online X-tremists",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7203342,
+    "team_name": "Chaos EC",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1047281,
+    "team_name": "Speed Gaming International",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9248240,
+    "team_name": "TeamWaska",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8168562,
+    "team_name": "INK ICE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7748744,
+    "team_name": "CR4ZY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9885654,
+    "team_name": "Team Aureus",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8722443,
+    "team_name": "Ooredoo Thunders",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9964962,
+    "team_name": "GamerLegion",
+    "current_players_count": 5,
+    "current_players": [
+      {
+        "account_id": 191362875,
+        "name": "Speeed",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 81475303,
+        "name": "Yamsun",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 160119017,
+        "name": "Fayde",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 90423751,
+        "name": "Bignum",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 154974246,
+        "name": "RCY",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7554697,
+    "team_name": "Nigma Galaxy",
+    "current_players_count": 7,
+    "current_players": [
+      {
+        "account_id": 101356886,
+        "name": "GH",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 105248644,
+        "name": "Miracle-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 82262664,
+        "name": "kky",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 111620041,
+        "name": "SumaiL-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 140297552,
+        "name": "No!ob™",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 152168157,
+        "name": "OmaR",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 87197791,
+        "name": "rmN-.",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2526472,
+    "team_name": "$5JuNGz$",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8574561,
+    "team_name": "Azure Ray",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 107803494,
+        "name": "Ori",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5027210,
+    "team_name": "VGJ Thunder",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3326875,
+    "team_name": "Faceless",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8668460,
+    "team_name": "Blacklist Rivalry ",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 156029808,
+        "name": "Carlo",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8962585,
+    "team_name": "Star Foxes ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9594647,
+    "team_name": "PuckChamp",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9824702,
+    "team_name": "PARIVISION",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 1044002267,
+        "name": "Satanic",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 73401082,
+        "name": "Dukalis",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 164199202,
+        "name": "9Class",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 106573901,
+        "name": "No[o]ne-",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7555613,
+    "team_name": "OG.Seed",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1883502,
+    "team_name": "Virtus.pro",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8980714,
+    "team_name": "Team Tough",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 285319482,
+        "name": "Tsukimoto",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 242835570,
+        "name": "seimei",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 878613736,
+        "name": "Ikigai鷹",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 886742476,
+        "name": "FortuneSoul",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8119006,
+    "team_name": "Among Us",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7405754,
+    "team_name": "Positive Guys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944440,
+    "team_name": "StoRm",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 117421467,
+        "name": "SoNNeikO",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7424172,
+    "team_name": "T1",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3326126,
+    "team_name": "Team VG.J",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9482900,
+    "team_name": "Рязань-ВДВ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6209166,
+    "team_name": "Team Aster",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 183378746,
+        "name": "皮球",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 371374667,
+        "name": "Frisk",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2108395,
+    "team_name": "TNC Predator",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3722973,
+    "team_name": "Team Onyx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9283988,
+    "team_name": "Invaders",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8143502,
+    "team_name": "4am.小象",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9600141,
+    "team_name": "Zero Tenacity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 416900,
+    "team_name": "Orange.Neolution Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6382740,
+    "team_name": "Royal",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9729720,
+    "team_name": "Virtus.pro",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9814008,
+    "team_name": "eSpoiled",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9255039,
+    "team_name": "1w Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9389381,
+    "team_name": "Team  KEV",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7806386,
+    "team_name": "Quincy Crew",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2635099,
+    "team_name": "CDEC.Y",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8062847,
+    "team_name": "Galaxy Racer Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2777247,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3586078,
+    "team_name": "Geek Fam",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2790766,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2621843,
+    "team_name": "Team. Spirit",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9466943,
+    "team_name": "Team Tea",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261234,
+    "team_name": "CREEPWAVE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9593895,
+    "team_name": "Gaozu",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 143693439,
+        "name": "Dy",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 138857296,
+        "name": "JT-",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7118032,
+    "team_name": "Winstrike Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 41,
+    "team_name": "4 Friends + Chrillee",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2576071,
+    "team_name": "Yellow Submarine",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 417235485,
+        "name": "prblms",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9255238,
+    "team_name": "ESTAR_BACKS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8728920,
+    "team_name": "nouns",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 126238768,
+        "name": "Gunnar",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 87063175,
+        "name": "Lelis",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 94155156,
+        "name": "Fly",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 115651292,
+        "name": "Copy",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6685591,
+    "team_name": "ViKin.gg",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8975678,
+    "team_name": "Team Sexy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9477537,
+    "team_name": "52turbo",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4288603,
+    "team_name": "Rock.Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9263388,
+    "team_name": "The dudley boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9758040,
+    "team_name": "Runa Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9238717,
+    "team_name": "Team 13",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2006913,
+    "team_name": "Vega Squadron",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4,
+    "team_name": "EHOME",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7681441,
+    "team_name": "business associates",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1025734,
+    "team_name": "LUCCINI GAM1NG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9872667,
+    "team_name": "Pipsqueak+4",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1803996,
+    "team_name": "NAM VEZET-MI IGRAEM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1556884,
+    "team_name": "AftershockGaming Int.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9201870,
+    "team_name": "ROR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2006291,
+    "team_name": "Lajons",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1453020,
+    "team_name": "Sneaky Nyx Assassins",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8482814,
+    "team_name": "Ragdoll",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8750317,
+    "team_name": "Team Sphinx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 39,
+    "team_name": "Shopify Rebellion",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 86745912,
+        "name": "天鸽",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 324277900,
+        "name": "Yopaj-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 100594231,
+        "name": "skem",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 187824320,
+        "name": "Kitrak",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 105045291,
+        "name": "Thiolicor",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 34505203,
+        "name": "mc",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8145157,
+    "team_name": "Yellow Submarine",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2780729,
+    "team_name": "G.star",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8597976,
+    "team_name": "Talon",
+    "current_players_count": 7,
+    "current_players": [
+      {
+        "account_id": 301750126,
+        "name": "Mikoto",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 152859296,
+        "name": "Jhocam",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 375507918,
+        "name": "23savage",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 184950344,
+        "name": "Kuku^",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 293904640,
+        "name": "ponyo",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 355168766,
+        "name": "Natsumi",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 113435203,
+        "name": "ChYuaN",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 3332295,
+    "team_name": "Friends",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5167450,
+    "team_name": "boths",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5466118,
+    "team_name": "YOSHIMOTO.DETONATOR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261648,
+    "team_name": "Old G",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4425527,
+    "team_name": "Geek Fam",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8021940,
+    "team_name": "New Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8282268,
+    "team_name": "Chadou Fint",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8514342,
+    "team_name": "Infamous Uesports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1283482,
+    "team_name": "Scythe.SG-",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 38,
+    "team_name": "FnaticRaidCall",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1836806,
+    "team_name": "the wings gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6904594,
+    "team_name": "TEAM TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1277104,
+    "team_name": "Nvidia.ArrowGaming.AVF",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6298307,
+    "team_name": "The Pango",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6951036,
+    "team_name": "Cignal Ultra Warriors",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9744330,
+    "team_name": "Somos Nós a Justiça",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2714312,
+    "team_name": "Aggressive 5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9691969,
+    "team_name": "Team Nemesis",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 104512126,
+        "name": "Mac",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 148526973,
+        "name": "Jaunuel",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 100471531,
+        "name": "Jabz",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 193815691,
+        "name": "Q",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8086218,
+    "team_name": "TEAM BRASIL",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1087145,
+    "team_name": "Osliki Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8214850,
+    "team_name": "BLEED",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 102099826,
+        "name": "DJ",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 184138153,
+        "name": "Masaros",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 147767183,
+        "name": "zeal",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 196400041,
+        "name": "Se",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9699158,
+    "team_name": "tearlaments",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9419759,
+    "team_name": "universitario",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9467430,
+    "team_name": "Blacklist International",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6209804,
+    "team_name": "Antarctic Penguins",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 117731777,
+        "name": "XCJ",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 3580606,
+    "team_name": "SG e-sports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3326680,
+    "team_name": "Horde",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7653600,
+    "team_name": "Aggressive Mode",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7959677,
+    "team_name": "Cow boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 166,
+    "team_name": "Scenario",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936210,
+    "team_name": "Outsiders From CN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8390848,
+    "team_name": "ITB.Shuffle",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 50580004,
+        "name": "Xibbe",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 58513047,
+        "name": "Supream^",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1333179,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8160726,
+    "team_name": "4Fun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8203841,
+    "team_name": "DestroyItems",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 185576371,
+        "name": "Squall",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1773539,
+    "team_name": "Battle Zone-",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8962689,
+    "team_name": "Star Foxes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8310936,
+    "team_name": "Wayfarers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6666989,
+    "team_name": "Chaos Esports Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1079149,
+    "team_name": "SIGMA.int",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4372042,
+    "team_name": "Team Freedom",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5994455,
+    "team_name": "Team Orca",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 111474,
+    "team_name": "Alliance",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 41231571,
+        "name": "s4",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 122049498,
+        "name": "charlie",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9790546,
+    "team_name": "TEAM NEXT LEVEL",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4593831,
+    "team_name": "Planet Dog",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9448501,
+    "team_name": "TEAM TURTLE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1375614,
+    "team_name": "Newbee",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1531850,
+    "team_name": "North American Rejects",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1059824,
+    "team_name": "Dream time.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9692104,
+    "team_name": "Nethercore",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8083854,
+    "team_name": "cuteanimegirls",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2640099,
+    "team_name": "Shazam~",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8597594,
+    "team_name": "GrindSky Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2626685,
+    "team_name": "KEEN GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1866993,
+    "team_name": "T.O.T",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 134900,
+    "team_name": "iCCup Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8747056,
+    "team_name": "Virtus.pro2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 20,
+    "team_name": "Newbee.mgb",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8750069,
+    "team_name": "Gorilla",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1370482,
+    "team_name": "Doggy Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1271771,
+    "team_name": "Zero Latitude",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8172168,
+    "team_name": "mudgolems",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8835624,
+    "team_name": "Team Sangre",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8075993,
+    "team_name": "For The Dream",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5725202,
+    "team_name": "Wind and Rain",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8680612,
+    "team_name": "noMERCY",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 194521913,
+        "name": "Benjaz",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1194815,
+    "team_name": "Dwayne 'The John' Rockson",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2642171,
+    "team_name": "Team AD FINEM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6391499,
+    "team_name": "ReckoninG eSports ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9547255,
+    "team_name": "Bandanoone",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8951348,
+    "team_name": "fire beavers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9850944,
+    "team_name": "Kalmychata",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9351740,
+    "team_name": "Yakult Brothers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8998465,
+    "team_name": "TpaBoMaH",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6019885,
+    "team_name": "Godlike E-Sports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4010914,
+    "team_name": "Pariente Gaming ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9885667,
+    "team_name": "Team Tea",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9303076,
+    "team_name": "Ninja Penguins",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9744229,
+    "team_name": "Team Den",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2085365,
+    "team_name": "-Ninjas-in-Pyjamas-",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2780911,
+    "team_name": "Eagles GIGABYTE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9646485,
+    "team_name": "Jigglin",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9545759,
+    "team_name": "Waska",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3715574,
+    "team_name": "SG e-sports team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3331948,
+    "team_name": "LGD.Forever Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9956508,
+    "team_name": "Team Public",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1951061,
+    "team_name": "Newbee.Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 990533,
+    "team_name": "MeeT YouR Mak3rS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2555665,
+    "team_name": "Archon Dota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3722485,
+    "team_name": "B)ears",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8112124,
+    "team_name": "Brame",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7121264,
+    "team_name": "PANDA GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 626763,
+    "team_name": "AllianceGG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9729767,
+    "team_name": "BloodyRose",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2552118,
+    "team_name": "FTD club a",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3317512,
+    "team_name": "DUOBAO Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8132093,
+    "team_name": "01 Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9017079,
+    "team_name": "Piggy Killer",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 156662698,
+        "name": "Ava阿发",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2585896,
+    "team_name": "eEriness!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2346476,
+    "team_name": "LEGIO VICTRIX !",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7731375,
+    "team_name": "Neets Uprising",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 995682,
+    "team_name": "SuperStrongDinosaurs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9279103,
+    "team_name": "Business club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3325212,
+    "team_name": "Natural 9",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8374752,
+    "team_name": "Tapan Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9337731,
+    "team_name": "LEVIATAN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6849739,
+    "team_name": "Ωmega Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8058269,
+    "team_name": "Clown City",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6189996,
+    "team_name": "Lotac",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8621525,
+    "team_name": "barsa",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9450071,
+    "team_name": "Fusion Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2789717,
+    "team_name": "Polarity Dota 2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7777322,
+    "team_name": "Oshi hi teo Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9664724,
+    "team_name": "ITB.Shuffle",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9828897,
+    "team_name": "REKONIX",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 181716137,
+        "name": "inYourdreaM",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 118559150,
+        "name": "Varizh",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 155447692,
+        "name": "dalul",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 156328257,
+        "name": "Fbz",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 67,
+    "team_name": "paiN Gaming",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 157989498,
+        "name": "Scofield",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1061269,
+    "team_name": "Vivo Keyd Stars",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 84853828,
+        "name": "Kingrd",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 86822085,
+        "name": "Costabile",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 689412,
+    "team_name": "Team \"SEX\"",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8456656,
+    "team_name": "lowkees",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9652147,
+    "team_name": "Looking for Org",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6491135,
+    "team_name": "Flying Penguins",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936568,
+    "team_name": "МГАФК",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9414800,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 498033,
+    "team_name": "FXOpen E-Sports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9175127,
+    "team_name": "Generation of Miracles",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8858106,
+    "team_name": "Unity Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9850048,
+    "team_name": "CHEFBRAND TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8789578,
+    "team_name": "vezzra",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2880140,
+    "team_name": "Fire Dragoon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8089675,
+    "team_name": "Escape Velocity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2659468,
+    "team_name": "WG.Unity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6929895,
+    "team_name": "Pejuang Dota Badung",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9470838,
+    "team_name": "Infinity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261554,
+    "team_name": "Army Geniuses Mansion ",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 150862738,
+        "name": "Yowe",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5067988,
+    "team_name": "ROG TiTans",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1286339,
+    "team_name": "Arizona Iced Out Boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9366499,
+    "team_name": "KEV",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9629459,
+    "team_name": "OTHERS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8634419,
+    "team_name": "«444» Squad",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8022392,
+    "team_name": "One More Game",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6905300,
+    "team_name": "Reels Royce",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7732977,
+    "team_name": "BOOM Esports",
+    "current_players_count": 8,
+    "current_players": [
+      {
+        "account_id": 339235645,
+        "name": "Pakazs",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 117089283,
+        "name": "Panda",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 383867949,
+        "name": "SLATEM$",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 308163407,
+        "name": "ILICH-",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 408729743,
+        "name": "Sacred",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 352545711,
+        "name": "DarkMago♡",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 155332459,
+        "name": "Matthew",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 177953305,
+        "name": "Tiger",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9586420,
+    "team_name": "KIBA ARMS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2783913,
+    "team_name": "Escape Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7542619,
+    "team_name": "GALKYNYSH",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9678463,
+    "team_name": "Estar Backs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8724984,
+    "team_name": "Virtus.pro",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 94049589,
+        "name": "Fng",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 161839895,
+        "name": "Antares",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5895083,
+    "team_name": "Athletico",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2552670,
+    "team_name": "Prodota Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7344577,
+    "team_name": "Gang Bang",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6736502,
+    "team_name": "Fourzerozone",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944302,
+    "team_name": "Myth Avenue Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8360138,
+    "team_name": "Neon Esports",
+    "current_players_count": 6,
+    "current_players": [
+      {
+        "account_id": 218367241,
+        "name": "Ken",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 108997922,
+        "name": "Castaway",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 136737280,
+        "name": "JG",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 206379758,
+        "name": "CDR",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 228517469,
+        "name": "bombi",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 286985748,
+        "name": "Cije",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 468458,
+    "team_name": "E.C.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 680683,
+    "team_name": "Quantic|Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2244697,
+    "team_name": "Team Archon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5000254,
+    "team_name": "ForTheDream",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5138280,
+    "team_name": "Signify",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8161113,
+    "team_name": "Live to Win",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9500213,
+    "team_name": "Bruv123",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1410456,
+    "team_name": "TeamCoast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9545744,
+    "team_name": "Team Kukuys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7937681,
+    "team_name": "DestroyItems",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8230491,
+    "team_name": "TEAM DOG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3547682,
+    "team_name": "Team VGJ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8428953,
+    "team_name": "Sinister 5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7404529,
+    "team_name": "Reality Rift",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7355202,
+    "team_name": "0-900",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5407259,
+    "team_name": "TNC Tigers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6465690,
+    "team_name": "Team Fantech",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2512249,
+    "team_name": "123",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7269341,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6796511,
+    "team_name": "Saints ID",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8697328,
+    "team_name": "Please dont gank my carry",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1848465,
+    "team_name": "LaiGaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1256674,
+    "team_name": "XPC International",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7441136,
+    "team_name": "beastcoast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7359917,
+    "team_name": "Lowkey",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4426165,
+    "team_name": "xxX",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9635124,
+    "team_name": "M80",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9677587,
+    "team_name": "V for Vendeta",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9664371,
+    "team_name": "gazovatorbl",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9005165,
+    "team_name": "Star Foxes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4186376,
+    "team_name": "Team Singularity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7556672,
+    "team_name": "TEMPO",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5051649,
+    "team_name": "Immortals",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6306453,
+    "team_name": "WarriorsGaming.Unity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3785359,
+    "team_name": "BOOM ID",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9142627,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7586931,
+    "team_name": "Avengers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3259983,
+    "team_name": "Emit Lortnoc Boss",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9148266,
+    "team_name": "AcatSuki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8563718,
+    "team_name": "WildDeer",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9499095,
+    "team_name": "Legacy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7669103,
+    "team_name": "Cyber Legacy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8638867,
+    "team_name": "Easy Gaming",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 179469240,
+        "name": "IP",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9346249,
+    "team_name": "Geek Fam",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 212560917,
+        "name": "Kokz",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9079676,
+    "team_name": "Los moticucos",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8254145,
+    "team_name": "Execration",
+    "current_players_count": 7,
+    "current_players": [
+      {
+        "account_id": 337575662,
+        "name": "Tino",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 399862798,
+        "name": "Shanks",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 173378701,
+        "name": "Bob",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 100616105,
+        "name": "cml",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 861414087,
+        "name": "lewis",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 119898344,
+        "name": "Denzsanity",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 349495318,
+        "name": "Krish`-",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6187657,
+    "team_name": "Plae8 Neon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2787008,
+    "team_name": "Corgi in a Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3706823,
+    "team_name": "G4",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9636142,
+    "team_name": "Ghost Sheep",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1556150,
+    "team_name": "SPNV Inspire return",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7716206,
+    "team_name": "Clcombat Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5040783,
+    "team_name": "Immortals",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1838315,
+    "team_name": "Team Secret",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 87278757,
+        "name": "Puppey",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 262838756,
+        "name": "Kordan",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5992560,
+    "team_name": "Infamous Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1236083,
+    "team_name": "FelMysT",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8168302,
+    "team_name": "Forest",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9716354,
+    "team_name": "Tech Free Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8494848,
+    "team_name": "Winter Bear",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9878408,
+    "team_name": "Elite Eclipse",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8790102,
+    "team_name": "Anime Enjoyers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8598633,
+    "team_name": "Moneymakers",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 91460772,
+        "name": "Slayer",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1110152099,
+        "name": "Egor",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6876721,
+    "team_name": "Hans Pro Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8589016,
+    "team_name": "Team WANKA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1371515,
+    "team_name": "Aware.Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9546437,
+    "team_name": "KUKUYS 2.0",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10000352,
+    "team_name": "Rottweilas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9678064,
+    "team_name": "Moodeng Warriors",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8151879,
+    "team_name": "Among Us",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7391166,
+    "team_name": "Fighting Pepegas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261774,
+    "team_name": "V-Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1513164,
+    "team_name": "aSpera ESports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2384932,
+    "team_name": "Team OvP.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9949210,
+    "team_name": "loodowolfs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9298291,
+    "team_name": "Acatsuki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3333433,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6214973,
+    "team_name": "Ninjas in Pyjamas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9216247,
+    "team_name": "ASAKURA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7101255,
+    "team_name": "Revenge Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8970358,
+    "team_name": "mind takers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9600942,
+    "team_name": "WIN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1642908,
+    "team_name": "Natus Vincere US",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 534136,
+    "team_name": "New Guys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1846548,
+    "team_name": "HellRaisers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2101368,
+    "team_name": "LaDottA's Stacks",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9254358,
+    "team_name": "Legacy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8721917,
+    "team_name": "shelbywalk",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8131438,
+    "team_name": "4AM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8193609,
+    "team_name": "Come down",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9957138,
+    "team_name": "Stariy_Bog",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9256222,
+    "team_name": "Wawitas sagazes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 66855,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8193681,
+    "team_name": "Team Thailand",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2224197,
+    "team_name": "G Guard Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1366458,
+    "team_name": "R a v e",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8375459,
+    "team_name": "rush b!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9368468,
+    "team_name": "Twisted Minds",
+    "current_players_count": 3,
+    "current_players": [
+      {
+        "account_id": 18180970,
+        "name": "Handsken",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 117015167,
+        "name": "PABLO",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 412413765,
+        "name": "StoneBank",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8856125,
+    "team_name": "Ancient Tribe2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9224799,
+    "team_name": "NoMuerta",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8062738,
+    "team_name": "egoboys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8375259,
+    "team_name": "Infinity",
+    "current_players_count": 10,
+    "current_players": [
+      {
+        "account_id": 399920568,
+        "name": "PiPi",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 100758751,
+        "name": "Prada",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 392385140,
+        "name": "Genek",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 185202677,
+        "name": "Kōtarō.sr4ever",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 125995177,
+        "name": "Gardιck 鬼",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 363758022,
+        "name": "Wits",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 138535219,
+        "name": "Arkano",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 248180032,
+        "name": "Michael~",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 421515107,
+        "name": "Ryu",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 303673743,
+        "name": "Cucahook",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6615678,
+    "team_name": "Room310",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9593627,
+    "team_name": "Titan",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 249835593,
+        "name": "zzq",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 170896543,
+        "name": "YSR-04E",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 5194336,
+    "team_name": "DeathBringer Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 485526,
+    "team_name": "Life.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2390951,
+    "team_name": "Kanaya",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7453020,
+    "team_name": "Aster.Aries",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 197849259,
+        "name": "Mercy",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8496030,
+    "team_name": "Furia Jovem",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9895392,
+    "team_name": "Virtus.pro",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5155538,
+    "team_name": "Рыцари Hiden pool'а",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2395241,
+    "team_name": "Artyk Dota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9824497,
+    "team_name": "Team Yakuza",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7930695,
+    "team_name": "FAMILY TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3349045,
+    "team_name": "Σ(っ°Д°;)っ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3851150,
+    "team_name": "NoLogic Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8893633,
+    "team_name": "STUDIO21",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2,
+    "team_name": "Zenith",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9829468,
+    "team_name": "100MMR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5084724,
+    "team_name": "Newbee.M",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2349091,
+    "team_name": "TODOPORELPOD",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6908054,
+    "team_name": "MT Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6925812,
+    "team_name": "EStolis Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9928636,
+    "team_name": "Team Lynx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7422789,
+    "team_name": "9Pandas",
+    "current_players_count": 2,
+    "current_players": [
+      {
+        "account_id": 879017980,
+        "name": "Darklord^",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 145065875,
+        "name": "sayuw",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6269097,
+    "team_name": "TAYO LOVERS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9818882,
+    "team_name": "Стак который ебет",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 53,
+    "team_name": "Potm Bottom",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7681903,
+    "team_name": "IO Dota2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9885888,
+    "team_name": "KUKUYS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8581305,
+    "team_name": "Lava BestPc",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7641673,
+    "team_name": "Aggressive Mode.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3018001,
+    "team_name": "     ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7098928,
+    "team_name": "Adroit",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5270154,
+    "team_name": "Team Russia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5011202,
+    "team_name": "Coloss",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8168546,
+    "team_name": "FTD.C.Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9373877,
+    "team_name": "Team Darleng",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3327985,
+    "team_name": "RaveDota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1679554,
+    "team_name": "Imba Gaming Vietnam",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6265062,
+    "team_name": "Se7en Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4147900,
+    "team_name": "15 añitoz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9849484,
+    "team_name": "Ягодки",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9791362,
+    "team_name": "Ramzes team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8133097,
+    "team_name": "Golden Legacy ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2197847,
+    "team_name": "Burden United",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 42,
+    "team_name": "Orange E-Sports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6355223,
+    "team_name": "MalaWarrior",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8300363,
+    "team_name": "SADBOYS.2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 464103,
+    "team_name": "Danish Bears",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8443160,
+    "team_name": "meow meow",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8063508,
+    "team_name": "Adió Chula",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3747558,
+    "team_name": "NoTricks",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7156567,
+    "team_name": "Sacred Monarch Cult",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7751001,
+    "team_name": "DeathWish",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9303383,
+    "team_name": "L1GA TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9476778,
+    "team_name": "Eye Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9572357,
+    "team_name": "Студените",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6926667,
+    "team_name": "Room310",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3262512,
+    "team_name": "ThePrime",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8351318,
+    "team_name": "férias com ex",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8021531,
+    "team_name": "CYBERIUM.S",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8152371,
+    "team_name": "draingang",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9505239,
+    "team_name": "Rakuzan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7574786,
+    "team_name": "infinite tsukuyomi",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9309009,
+    "team_name": "DARLENG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7119284,
+    "team_name": "Power of MYSG+AU",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6711290,
+    "team_name": "Team Singularity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7483893,
+    "team_name": "Fighting PandaS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3931120,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8252662,
+    "team_name": "BINUS University",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5209335,
+    "team_name": "Orginality",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9609099,
+    "team_name": "Rakuzan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6822187,
+    "team_name": "SS DARVIN LOPERS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7300685,
+    "team_name": "Team Drinking",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6644139,
+    "team_name": "Willow.Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7822261,
+    "team_name": "Yolo Knight",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4958284,
+    "team_name": "Greedy Goblins",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6382770,
+    "team_name": "Nikcastrum",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9256136,
+    "team_name": "Bammysoy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7543171,
+    "team_name": "Manaburn",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8375466,
+    "team_name": "Motivate. Viper Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9079901,
+    "team_name": "The last dark",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 262367336,
+        "name": "Shining",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9229377,
+    "team_name": "DemiGods",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2850822,
+    "team_name": "King Arthur & 4 Knights",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8927141,
+    "team_name": "tatladderclan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9330146,
+    "team_name": "Sporkface Killaz Div2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6953026,
+    "team_name": "Butterfly Effec",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9403748,
+    "team_name": "Dragon Esports Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3260216,
+    "team_name": "Team HighGround",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 484909,
+    "team_name": "Hyper Glory Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7443956,
+    "team_name": "Black Knight",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9216658,
+    "team_name": "Lion Lover",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8496219,
+    "team_name": "Khan esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9554242,
+    "team_name": "Play for Fun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8597509,
+    "team_name": "Teletubbies",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8701706,
+    "team_name": "Zorka",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9381358,
+    "team_name": "Estar Backs!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 883783,
+    "team_name": "Stay - Free",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7137328,
+    "team_name": "Team Anvorgesa",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9455993,
+    "team_name": "повер ренджерс",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7472412,
+    "team_name": "Park Bo Cuan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3725701,
+    "team_name": "Happy  Feet",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8975618,
+    "team_name": "Old But Gold",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8927441,
+    "team_name": "INFINITY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5231224,
+    "team_name": "Rex Regum Qeon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9928746,
+    "team_name": "Most Wanted",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7498762,
+    "team_name": "Team Oracle.YOUTH",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9247260,
+    "team_name": "YodiBrodi Nexus Future",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1616631,
+    "team_name": "Flip.Sid3 Tactics NA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1288401,
+    "team_name": "R A V E N",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1736743,
+    "team_name": "Elysium!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9352756,
+    "team_name": "Me Parb",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9790570,
+    "team_name": "nouns",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2833354,
+    "team_name": "Vici Gaming Potential",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7119077,
+    "team_name": "Hokori",
+    "current_players_count": 8,
+    "current_players": [
+      {
+        "account_id": 191290281,
+        "name": "Lumière",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1673586483,
+        "name": "wonderk1d^^<",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 169359999,
+        "name": "kendallx",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 385825293,
+        "name": "Austin",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1026694469,
+        "name": "osito",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 922481045,
+        "name": "LSM>",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 239230502,
+        "name": "Euphoria~",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 874981361,
+        "name": "Sh1do",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2257957,
+    "team_name": "LINCENCIADOS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7913999,
+    "team_name": "Midas Club",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 107579895,
+        "name": "fcr",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 9176102,
+    "team_name": "Team Arava",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2799801,
+    "team_name": "KanayaGaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7391558,
+    "team_name": "BOSS ANDRE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1648005,
+    "team_name": "Inter Active Philippines",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936382,
+    "team_name": "Indonesia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8732399,
+    "team_name": "pangolier s javelinom",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9175367,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9824806,
+    "team_name": "捕畜小分队",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8556648,
+    "team_name": "Osh-Tekk Warriors",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2136210,
+    "team_name": "Leetss Do It",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8606828,
+    "team_name": "Wildcard",
+    "current_players_count": 3,
+    "current_players": [
+      {
+        "account_id": 110583422,
+        "name": "Samson",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 401792574,
+        "name": "Taiga",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 110448679,
+        "name": "Husky",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8318683,
+    "team_name": "IVY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6658560,
+    "team_name": "Guardian Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9277978,
+    "team_name": "内蒙古的星空",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9776488,
+    "team_name": "哈哈先生",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9187132,
+    "team_name": "MAG.ID",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8495691,
+    "team_name": "TEAM TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9824555,
+    "team_name": "BULDOZER",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7893914,
+    "team_name": "TEAM SIDERAL",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 688388,
+    "team_name": "ThePrimeSIAPA?!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2751690,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9476852,
+    "team_name": "UZUMAKI",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8406333,
+    "team_name": "kastuDon",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8638425,
+    "team_name": "Kinkalow",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 161707,
+    "team_name": "mouz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7218194,
+    "team_name": "FrozenDawn Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1949879,
+    "team_name": "Proxima E-Sports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1929695,
+    "team_name": "KappaGam!ng",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6904952,
+    "team_name": "Dark Sided",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9957513,
+    "team_name": "Ballas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9867013,
+    "team_name": "teamMopsi",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261882,
+    "team_name": "felt",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 925407683,
+        "name": "Licht 神",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 2275267,
+    "team_name": "TELL WHY_ANIME?",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9238262,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7454504,
+    "team_name": "Demon Esport",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1718551,
+    "team_name": "ROOT-gaming.com",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9886115,
+    "team_name": "Shinigami Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9103873,
+    "team_name": "Infamous Astra",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8856078,
+    "team_name": "Balrogs Academy™",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8384158,
+    "team_name": "Into The Breach",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7528264,
+    "team_name": "bmstu",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7801839,
+    "team_name": "Paladin",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 805172,
+    "team_name": "Avant Garde Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8048279,
+    "team_name": "Egoboys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5946837,
+    "team_name": "Galkynysh",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9054352,
+    "team_name": "Fortnite",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9162109,
+    "team_name": "North Macedonia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6951684,
+    "team_name": "M11 SLAYERS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8741331,
+    "team_name": "Atomic Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1884355,
+    "team_name": "Void Boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9460640,
+    "team_name": "ValenTiny",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3008699,
+    "team_name": "Los Magikarps",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8039920,
+    "team_name": "Backstab Boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6350308,
+    "team_name": "Team \"ENEMY\"",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8756744,
+    "team_name": "Crayon Shin-chan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9467024,
+    "team_name": "Dominion",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2019384,
+    "team_name": "[Flip.Sid3 Tactics]",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6685947,
+    "team_name": "AQuaMan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9839211,
+    "team_name": "Dominion",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6409189,
+    "team_name": "Team Empire Hope",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8077147,
+    "team_name": "Omegalil",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 733290,
+    "team_name": "DoTa GoD SLaYeRs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5219214,
+    "team_name": "BG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7958190,
+    "team_name": "eu vou estudo",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936402,
+    "team_name": "Team Thailand",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5896332,
+    "team_name": "Sterling Global Dragons",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1665758,
+    "team_name": "羊村",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6212920,
+    "team_name": "Winstrike Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8741737,
+    "team_name": "Team Sphinxx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6685839,
+    "team_name": "FANTASTIC ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8980561,
+    "team_name": "Block Roar Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9547653,
+    "team_name": "Castawake ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2413439,
+    "team_name": "Team SatuDuaTiga",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8575071,
+    "team_name": "NoMarci",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7612347,
+    "team_name": "Panda Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2676492,
+    "team_name": "Virus Nirvana",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1148284,
+    "team_name": "MVP Phoenix",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6411545,
+    "team_name": "Team DOGE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4542817,
+    "team_name": "Washed Up",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7153614,
+    "team_name": "top1sng",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8262059,
+    "team_name": "DALANJING GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4763533,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2276247,
+    "team_name": "Mamas-Boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4009019,
+    "team_name": "Fox Gaming Youth",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9449748,
+    "team_name": "DMS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5269247,
+    "team_name": "Team Hellas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9323850,
+    "team_name": "Chompers X",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8124688,
+    "team_name": "Kylin Esports Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7894580,
+    "team_name": "miaww^^",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9834249,
+    "team_name": "Ji est''",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5207190,
+    "team_name": "Admiral Dota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9797234,
+    "team_name": "Team Sin Compromiso",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9011262,
+    "team_name": "STARFAll",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8893663,
+    "team_name": "Design Machine",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5992206,
+    "team_name": "KSY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 433549,
+    "team_name": "TheRerereTRY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5242529,
+    "team_name": "Unchained Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1994818,
+    "team_name": "We Got Late Game",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9472684,
+    "team_name": "CR4ZY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9499428,
+    "team_name": "skem&friends",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8546012,
+    "team_name": "Celestials",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9563849,
+    "team_name": "Prodigy of God",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1464407,
+    "team_name": "Immunity Dota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8118197,
+    "team_name": "Infamous Gaming",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 86818655,
+        "name": "nuages",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8726159,
+    "team_name": "Taw Gang",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7542075,
+    "team_name": "escape",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8415816,
+    "team_name": " Team HaliFFat",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9849814,
+    "team_name": "山东好男人",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9395449,
+    "team_name": "Outcast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9736257,
+    "team_name": "Roselia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4010559,
+    "team_name": "Team Quetzal",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7284811,
+    "team_name": "No Fucking Name",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 367492,
+    "team_name": "Revenge-",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3968479,
+    "team_name": "PODKONÍ A KRÁVA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8726547,
+    "team_name": "Deboosters",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8070452,
+    "team_name": "Team Caspium",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7819028,
+    "team_name": "4 Zoomers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10020555,
+    "team_name": "PlayTime",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 330534326,
+        "name": "Akashi",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1589592,
+    "team_name": "Balkan Bears Corleone",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7599541,
+    "team_name": "Holy Masters",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7851888,
+    "team_name": "CZC.eSuba",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8713367,
+    "team_name": "Vanguard 36",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5028104,
+    "team_name": "VGJ Storm",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7554277,
+    "team_name": "jakiro",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7794384,
+    "team_name": "QuestionMark",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 672504,
+    "team_name": "Hurricane Festival",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 992400,
+    "team_name": "Team Underminer",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6492310,
+    "team_name": "KAMI TAMPAN SEKALI",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2833068,
+    "team_name": "GodGenesis",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8732747,
+    "team_name": "LUNA GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9973477,
+    "team_name": "PYPSIKI",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7316976,
+    "team_name": "Whoops!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1325243,
+    "team_name": "Team Phoenix Rising",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5148271,
+    "team_name": "Minas Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4253054,
+    "team_name": "Team Random",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6761014,
+    "team_name": "Aging Rapu",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8502728,
+    "team_name": "KPFU-2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8597183,
+    "team_name": "Summit Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8680140,
+    "team_name": "Team ScorpioN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944766,
+    "team_name": "TRocket",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9476618,
+    "team_name": "MBA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8686786,
+    "team_name": "Ravens",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8360860,
+    "team_name": "HF",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1115421,
+    "team_name": "BBUBU+4",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5076975,
+    "team_name": "New Beginning",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8574375,
+    "team_name": "ThunderCoast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 992217,
+    "team_name": "Gofigure",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6713506,
+    "team_name": "Kaban",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2684597,
+    "team_name": "Beyte Tombu",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10014708,
+    "team_name": "Eye Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8741219,
+    "team_name": "cyxariki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9492695,
+    "team_name": "Ghost Sheep",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1064548,
+    "team_name": "Celestial eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9538207,
+    "team_name": "Myth Avenue Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7407260,
+    "team_name": "Team Saiyan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4259604,
+    "team_name": "Veteran",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2355689,
+    "team_name": "Malaya Dubna",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8575072,
+    "team_name": "team brasil",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8849833,
+    "team_name": "VERTEX PACK",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7408845,
+    "team_name": "Execration",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8406632,
+    "team_name": "Selemene",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4592777,
+    "team_name": "Double Dimension",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7204148,
+    "team_name": "Flash Point Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5197722,
+    "team_name": "Effect",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7079109,
+    "team_name": "beastcoast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4221905,
+    "team_name": "Exdee Dota 2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8113533,
+    "team_name": "N1ghtmares",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8746180,
+    "team_name": "NINFAW",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 59,
+    "team_name": "Kaipi",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8620778,
+    "team_name": "МГАФК",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936387,
+    "team_name": "Laos",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8750143,
+    "team_name": "Team Bhedos ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2099608,
+    "team_name": "Luminous.Dota 2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2686375,
+    "team_name": "@__@",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7716098,
+    "team_name": "Leopard Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3718685,
+    "team_name": "MVP.Revolution",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6435075,
+    "team_name": "NoLifer5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1521260,
+    "team_name": "ColourfulRainbows",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936418,
+    "team_name": "Philippines",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7655250,
+    "team_name": "Arassa Deniz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8820860,
+    "team_name": "Overlord",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2701329,
+    "team_name": "Team Freedom Dota 2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9651814,
+    "team_name": "Yellow Submarine",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4287101,
+    "team_name": "TEAM EVER",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8969481,
+    "team_name": "Team Sexy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9261979,
+    "team_name": "YG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6187452,
+    "team_name": "Team.PhoeniX",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6767698,
+    "team_name": "You Rock",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7282863,
+    "team_name": "Team Sincere",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10061446,
+    "team_name": "Flame esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9546449,
+    "team_name": "Yangon Galacticos",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2679744,
+    "team_name": "Intelligence Quotient xD",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8545488,
+    "team_name": "cybercats",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1175580,
+    "team_name": "sQreen's squad v2.0",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5039050,
+    "team_name": "Team Kinguin",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8848272,
+    "team_name": "LAST DANCE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7300262,
+    "team_name": "Thunder Predator",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7485273,
+    "team_name": "Team Strawberry",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8979725,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8732391,
+    "team_name": "FLUX",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9440022,
+    "team_name": "Elite Eclipse",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8263697,
+    "team_name": "Good Game No Remorse",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1725846,
+    "team_name": "Chimpanzini Bananini",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6849080,
+    "team_name": "Optimus Amicus",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5028043,
+    "team_name": "Sacred",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7469922,
+    "team_name": "Demon Slayers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6211921,
+    "team_name": "4ayniy Zavar",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6594251,
+    "team_name": "TEAM UKRAINE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2127330,
+    "team_name": "xant!c",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8829652,
+    "team_name": "Positive Vibes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5066616,
+    "team_name": "Team Serenity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6795631,
+    "team_name": "Flower Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8068278,
+    "team_name": "Search you Smolensk",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5682494,
+    "team_name": "Club Deportivo Municipal eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9303964,
+    "team_name": "Chimera",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7566229,
+    "team_name": "Apollo",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6380237,
+    "team_name": "BlackHole",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9011260,
+    "team_name": "Unity Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8475822,
+    "team_name": "RaccoonGaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2308619,
+    "team_name": "Note",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261242,
+    "team_name": "Team TikTok",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1592768,
+    "team_name": "AG-NoLimitz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8736159,
+    "team_name": "The OutStanding",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9346059,
+    "team_name": "Gantz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7019918,
+    "team_name": "drop",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6763958,
+    "team_name": "Team Odd",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6711721,
+    "team_name": "Old but Gold",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2191966,
+    "team_name": "Super Trash Brothers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5528506,
+    "team_name": "slojniy memas",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9964743,
+    "team_name": "DAVDDCLUB",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7913710,
+    "team_name": "KVP",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6568394,
+    "team_name": "Tentakel-Esport",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8407921,
+    "team_name": "SibFamily",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 977635,
+    "team_name": "TMNTDOTA2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7409177,
+    "team_name": "J.Storm",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9324046,
+    "team_name": "Continuum Esports Blue",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8335089,
+    "team_name": "Galkynysh Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9916737,
+    "team_name": "KPFU-1",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9678512,
+    "team_name": "NoLifer5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8300691,
+    "team_name": "Infinite War",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5766651,
+    "team_name": "Lithium",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1218336,
+    "team_name": "Eternal",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4369633,
+    "team_name": "Entity Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1827850,
+    "team_name": "Sua Empresa Aqui",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9449669,
+    "team_name": "Business Club",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9120269,
+    "team_name": "Yonko",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9055339,
+    "team_name": "saykalitatsh",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9741253,
+    "team_name": "Edge",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4425650,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7667536,
+    "team_name": "MOTIVADE.TRUST GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9360373,
+    "team_name": "The Mad Ronin",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9819437,
+    "team_name": "Team Yakuza",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10041315,
+    "team_name": "LiXO eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2429870,
+    "team_name": "TLC GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2535378,
+    "team_name": "Team FanTuan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7640557,
+    "team_name": "forZe eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9330573,
+    "team_name": "Teiko",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6546834,
+    "team_name": "ReRise",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1852655,
+    "team_name": "FuKCing Noobs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6666979,
+    "team_name": "LOUVRE ESPORTS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 862976,
+    "team_name": "Megalodon Gaming.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9209880,
+    "team_name": "Prodigy Of God",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2585648,
+    "team_name": "---uioyuiruy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9460652,
+    "team_name": "Remittance",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8403929,
+    "team_name": "Salty ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2860081,
+    "team_name": "team_ftd_a",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9409263,
+    "team_name": "Uzbekistan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2154552,
+    "team_name": ".Skynet.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10081680,
+    "team_name": "GLYPH",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6382750,
+    "team_name": "ELFinger Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1966890,
+    "team_name": "London Conspiracy Dota2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8719071,
+    "team_name": "Team Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7136618,
+    "team_name": "2Be.Dota2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8598475,
+    "team_name": "黑豚",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8962567,
+    "team_name": "Star Foxes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2024718,
+    "team_name": "#section80.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9264152,
+    "team_name": "MAG Indonesia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8936507,
+    "team_name": "FenixTeam",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8937275,
+    "team_name": "Lilgun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2348036,
+    "team_name": "Alliance Indonesia",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9017436,
+    "team_name": "esc",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8830022,
+    "team_name": "Poland",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5327206,
+    "team_name": "Thunder Predator",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8022502,
+    "team_name": "DevilTear",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8927440,
+    "team_name": "INFINITY",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8413838,
+    "team_name": "TEAM D",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7,
+    "team_name": "DK",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8070280,
+    "team_name": "Into The Breach",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 460316,
+    "team_name": "UrsaStroitHramm",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9973579,
+    "team_name": "chandogs",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5326172,
+    "team_name": "Vzpoura Goliardu ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3328127,
+    "team_name": "No Strategy",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2488123,
+    "team_name": "CoreNexGen",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9956444,
+    "team_name": "4eZaPuCи",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6330119,
+    "team_name": "Team Solid",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3098628,
+    "team_name": "Brain DDOSed",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1990162,
+    "team_name": "Moscow Five International",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6187626,
+    "team_name": "Tigers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 570152,
+    "team_name": "Insidious Gaming Int",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2349149,
+    "team_name": "Thunder Awaken PE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8049087,
+    "team_name": "Symmetric",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2850016,
+    "team_name": "Sanguine Sharks",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 454891,
+    "team_name": "MEKA.Tt eSPORT",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8655598,
+    "team_name": "Apex",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8215803,
+    "team_name": "Сascade Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7358634,
+    "team_name": "S A D B O Y S . A U",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1730778,
+    "team_name": "Avernus.ir",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8701944,
+    "team_name": "Team Domino",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7237001,
+    "team_name": "Tisumejik Esport",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9498970,
+    "team_name": "AVULUS",
+    "current_players_count": 4,
+    "current_players": [
+      {
+        "account_id": 1675898897,
+        "name": "asdekor_r",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 223382342,
+        "name": "dualrazee",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1682179459,
+        "name": "ryota",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 320017600,
+        "name": "ssnovv1",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8811024,
+    "team_name": "Brodie",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3265632,
+    "team_name": "PG.Barracx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 873585,
+    "team_name": "FlawlessFurionFarmers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1936852,
+    "team_name": "BalkanBearsRo",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 119,
+    "team_name": "e-Club[MUFC]",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8687717,
+    "team_name": "Ancient Tribe",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 106755427,
+        "name": "Mo13ei",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 8309784,
+    "team_name": "CyberLife eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 94252,
+    "team_name": "The GD B-Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9042172,
+    "team_name": "DerzhaWIN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5012612,
+    "team_name": "WipeouT",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944337,
+    "team_name": "Old G",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 86725175,
+        "name": "Resolut1on",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 1513643,
+    "team_name": "Diego y sus Amigos",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8336220,
+    "team_name": "The Infinity Gauntlet",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2120771,
+    "team_name": "Team ICE`",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5021898,
+    "team_name": "Team.Serenity",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6928546,
+    "team_name": "Uvajenie.Hope",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8193371,
+    "team_name": "Team Myanmar",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6211207,
+    "team_name": "Dread eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8151502,
+    "team_name": "TEAM STAR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9759380,
+    "team_name": "Team Invictus",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7204995,
+    "team_name": "Pusing Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8556552,
+    "team_name": "01 Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6324964,
+    "team_name": "BITCHBUILD",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5638182,
+    "team_name": "Madefake Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8359797,
+    "team_name": "Level UP",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5031582,
+    "team_name": "2Be.Dota2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9766927,
+    "team_name": "Eye Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2789395,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3259967,
+    "team_name": "you were my everything.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2208748,
+    "team_name": "VDuobao",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 102856993,
+        "name": "川果",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 7300277,
+    "team_name": "KZ TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1775760,
+    "team_name": "_---_",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7425071,
+    "team_name": "Yakovlev eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8195590,
+    "team_name": "Team Kazakhstan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2837183,
+    "team_name": "Dragon Slayerzzz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9062430,
+    "team_name": "Universitario  eSports 1",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8462963,
+    "team_name": "AVØID",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9156114,
+    "team_name": "TEAM FREEDOM ESPORT",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2715044,
+    "team_name": "Last Kings",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9895270,
+    "team_name": "YBN Team ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7683797,
+    "team_name": "F.R.I.E.N.D.S",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10040534,
+    "team_name": "Greyhound Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8144630,
+    "team_name": "Sudor Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1491448,
+    "team_name": "surprise waka waka",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7315013,
+    "team_name": "Looking for sponsors",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8588969,
+    "team_name": "HYDRA",
+    "current_players_count": 12,
+    "current_players": [
+      {
+        "account_id": 119857205,
+        "name": "fsd",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 1153798101,
+        "name": "Ethereal",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 47977302,
+        "name": "DR.bum",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 130123201,
+        "name": "mitrofanushka",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 228516683,
+        "name": "Dominic",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 326327879,
+        "name": "Danial",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 309345956,
+        "name": "Volshebnik",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 221532774,
+        "name": "kur0patbI4",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 113112046,
+        "name": "nattynarwhal_",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 165110440,
+        "name": "Retsu",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 424661031,
+        "name": "hina`",
+        "is_current_team_member": true
+      },
+      {
+        "account_id": 889805767,
+        "name": "Rain.",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 6206875,
+    "team_name": "LetMeAimyOu",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6214701,
+    "team_name": "BIG LIONS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 818303,
+    "team_name": "FataL.RaGe.(not)PrO",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7849151,
+    "team_name": "CR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9136712,
+    "team_name": "2late",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3329893,
+    "team_name": "DTT GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1829282,
+    "team_name": "Denial Esports|",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8513223,
+    "team_name": "Farmadores de Aura",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 560622,
+    "team_name": "Sensei gaming.mtrx",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9238400,
+    "team_name": "BeshennayaTamara",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 62266,
+    "team_name": "OtherWise",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9572608,
+    "team_name": "WW TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7451388,
+    "team_name": "LieYing Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 4149284,
+    "team_name": "Place Holder",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9677613,
+    "team_name": "Studenite",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 10033620,
+    "team_name": "StrongBoys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5029074,
+    "team_name": "Keen Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8300351,
+    "team_name": "zxc and pause",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9641437,
+    "team_name": "Illugi",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8599217,
+    "team_name": "Slot Seekers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2052902,
+    "team_name": "Extraordinary-Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8118868,
+    "team_name": "We must move forward",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5260723,
+    "team_name": "Fatal Error",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8359478,
+    "team_name": "Royale 5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5208684,
+    "team_name": "Sporkface Killaz",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9487554,
+    "team_name": "Dark Reef",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9593609,
+    "team_name": "Nethercore",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944282,
+    "team_name": "Pull Up",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7422393,
+    "team_name": "Revive",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3262331,
+    "team_name": "Team EVOS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9033695,
+    "team_name": "Spartans",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9224769,
+    "team_name": "Looking for org",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8022932,
+    "team_name": "ABEROMON RAFT",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7009107,
+    "team_name": "ReRise",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2533075,
+    "team_name": "Cloud 9",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9181465,
+    "team_name": "Wanderlust",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2447566,
+    "team_name": "Tamo ai na strada",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2337461,
+    "team_name": "Microsoft Corporation",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1287653,
+    "team_name": "Assail",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8793513,
+    "team_name": "Rakuzan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3927252,
+    "team_name": "Team Buriza",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5126720,
+    "team_name": "Clutch Gamers",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9247798,
+    "team_name": "Passion UA",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1748111,
+    "team_name": "Duza Gaming.",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9315393,
+    "team_name": "The goal of all life is death",
+    "current_players_count": 1,
+    "current_players": [
+      {
+        "account_id": 411596849,
+        "name": "鱼王",
+        "is_current_team_member": true
+      }
+    ]
+  },
+  {
+    "team_id": 3931472,
+    "team_name": "New Beginning",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9966313,
+    "team_name": "миумиу|>.<",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9426457,
+    "team_name": "GOTF eSports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9671463,
+    "team_name": "Apple City Gang",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 784775,
+    "team_name": "Cede.Nullis",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9104106,
+    "team_name": "Rakuzan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8191931,
+    "team_name": "Roshan Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8032335,
+    "team_name": "OAPB",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9277872,
+    "team_name": "歼星炮",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2537636,
+    "team_name": "Elements Pro Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7439020,
+    "team_name": "GHOST WALK",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9928121,
+    "team_name": "Suhariki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8937383,
+    "team_name": "Mind Games",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3931002,
+    "team_name": "is GG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8091161,
+    "team_name": "HAVU Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 1422987,
+    "team_name": "Jungles King",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9563873,
+    "team_name": "Elite Eclipse",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3704482,
+    "team_name": "SK-_-'iter (evil)!",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8964296,
+    "team_name": "Langlei",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2643401,
+    "team_name": "CDEC.Avenger",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 77666,
+    "team_name": "LGD-GAMING.int",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2059672,
+    "team_name": "FireDota",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7554685,
+    "team_name": "MR",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8944582,
+    "team_name": "Lilgun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6980042,
+    "team_name": "Team Oracle",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8056851,
+    "team_name": "Ares Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8668524,
+    "team_name": "Anonymous Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9360657,
+    "team_name": "Team Bocil",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7666342,
+    "team_name": "Team Having fun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7170428,
+    "team_name": "MarciusTeam",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8526121,
+    "team_name": "Kiba Arms",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8538452,
+    "team_name": "BINOMIX",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9449931,
+    "team_name": "Outcast",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9006059,
+    "team_name": "Puppet Masters",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8533044,
+    "team_name": "X5",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8496605,
+    "team_name": "CREEPWAVE",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8230622,
+    "team_name": "DALANJING GAMING",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7850349,
+    "team_name": "OGOROD",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8168204,
+    "team_name": "team void ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8526136,
+    "team_name": "Hardcore Ninja",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2677025,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 813776,
+    "team_name": "AncientWarriorsGaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7668567,
+    "team_name": "Cloud9",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8261152,
+    "team_name": "Sable Hat",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8655309,
+    "team_name": "DGG",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7468885,
+    "team_name": "Focus Arena Junior",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9292719,
+    "team_name": "Acatsuki",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6465093,
+    "team_name": "ForTheDream",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8336498,
+    "team_name": "PentAce",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6266246,
+    "team_name": "MOD ESPORTS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9302709,
+    "team_name": "Titan",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8604313,
+    "team_name": "DISrespect",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8800176,
+    "team_name": "Purple Paradox",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9759368,
+    "team_name": "Nethercore",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5767350,
+    "team_name": "Elements Pro Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2242024,
+    "team_name": "Quantic.Young",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9143553,
+    "team_name": "x5 Gaming",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8790759,
+    "team_name": "Deep Ravage",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8799593,
+    "team_name": "OTHERS ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6685660,
+    "team_name": "fourzerozone",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8540562,
+    "team_name": "Шишки",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6165106,
+    "team_name": "ХЕЙТЕРЫ ПОЛИНЫ ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8118436,
+    "team_name": "Zero",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9530572,
+    "team_name": "Evil Angels ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6462854,
+    "team_name": "Pavaga Junior",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6569799,
+    "team_name": "Main Sabun",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9664424,
+    "team_name": "CHOPAN ESPORTS",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7391517,
+    "team_name": "Jinx_Pro_Amanda",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9223943,
+    "team_name": "Rabbits of Revenge",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2224698,
+    "team_name": "O1d Boys",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9132053,
+    "team_name": "ua rejects",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5124585,
+    "team_name": "Alter Ego",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5165603,
+    "team_name": "EPHEMERAL TEAM",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9462373,
+    "team_name": "HardBass Team",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6046775,
+    "team_name": "Я НЕ ЧСВ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8392558,
+    "team_name": "Блювулька РАДЖ",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7375887,
+    "team_name": "TheMelDota2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 6846412,
+    "team_name": "Pacific Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8168128,
+    "team_name": "UD VESSUWAN",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2783809,
+    "team_name": "Majapahit Esports",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 2350559,
+    "team_name": "UNKNOWN #####",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 3783697,
+    "team_name": "Smoking Parrot",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 8691685,
+    "team_name": "Looney Tunes",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 5131954,
+    "team_name": "",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 7937261,
+    "team_name": "Monkey2",
+    "current_players_count": 0,
+    "current_players": []
+  },
+  {
+    "team_id": 9717281,
+    "team_name": "Bikini Bottom",
+    "current_players_count": 0,
+    "current_players": []
+  }
+]

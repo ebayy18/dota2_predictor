@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dota Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+    @keyframes fadeIn {
+        from { 
+            opacity: 0; 
+            transform: translateY(-20px); 
+        }
+        to { 
+            opacity: 1; 
+            transform: translateY(0); 
+        }
+    }
+    
+    .show {
+        animation: fadeIn 0.5s ease-out;
+    }
+
+    .player-row {
+        transition: all 0.3s;
+    }
+    
+    .player-row.filled {
+        background: #d4edda;
+        border: 2px solid #28a745;
+    }
+    
+    .player-row.empty {
+        background: #fff;
+        border: 2px solid #e0e0e0;
+    }
+    
+    #result {
+        min-height: 100px;
+        margin-top: 20px;
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">🎮 Dota Predictor</h1>
+        
+        <!-- Команда Dire -->
+        <div class="team-section team-dire">
+            <h2 class="team-title">🔴 Team Dire</h2>
+            <div class="team-search">
+                <input type="text" id="direInput" class="input-field" placeholder="Введите название команды...">
+                <button id="direSearchBtn" class="search-btn">Найти</button>
+            </div>
+            <div id="direError" class="error-msg"></div>
+            <div id="direPlayers" class="players-container"></div>
+        </div>
+        
+        <!-- Команда Radiant -->
+        <div class="team-section team-radiant">
+            <h2 class="team-title">🟢 Team Radiant</h2>
+            <div class="team-search">
+                <input type="text" id="radiantInput" class="input-field" placeholder="Введите название команды...">
+                <button id="radiantSearchBtn" class="search-btn">Найти</button>
+            </div>
+            <div id="radiantError" class="error-msg"></div>
+            <div id="radiantPlayers" class="players-container"></div>
+        </div>
+        
+        <!-- Кнопка предсказания -->
+        <button id="predictBtn" class="predict-button">🔮 Предсказать победителя</button>
+        
+        <!-- Результат -->
+        <div id="result" class="result-container"></div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
